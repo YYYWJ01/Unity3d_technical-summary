@@ -1,15 +1,1 @@
-[README
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1](https://docs.imzlp.com)
+[https://docs.imzlp.com](https://docs.imzlp.com)
