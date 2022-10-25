@@ -1,4 +1,4 @@
-<div align='center'>项目管理&规划&经验</div>
+<div align='center'>项目（管理&制作&经验）</div>
 
 ---
 项目管理
@@ -6,7 +6,7 @@
 >- [Unity项目开发过程中常见的问题](https://www.cnblogs.com/murongxiaopifu/p/9833395.html)
 >- [为什么项目开发永远缺乏合理的时间？](https://www.cnblogs.com/wlzcool/p/14142005.html)
 
-项目规划
+项目制作
 ---
 >- [MMORPG大型网游项目开发框架](https://github.com/YYYWJ01/Unity3d_technical-summary/blob/main/2.ProjectManagement/Picture/MMO%E7%A0%94%E5%8F%91%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84.png)
 >- [凉鞋：我所理解的框架 【Unity 游戏框架搭建】](https://www.cnblogs.com/liangxiegame/p/12557515.html)
