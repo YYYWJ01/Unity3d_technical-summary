@@ -9,7 +9,8 @@
 项目制作
 ---
 >- [MMORPG大型网游项目开发框架](https://github.com/YYYWJ01/Unity3d_technical-summary/blob/main/2.ProjectManagement/Picture/MMO%E7%A0%94%E5%8F%91%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84.png)
->- [凉鞋：我所理解的框架 【Unity 游戏框架搭建】](https://www.cnblogs.com/liangxiegame/p/12557515.html)
+>- [大型MMO项目UI管理的价值与责任](https://zhuanlan.zhihu.com/p/385119565)
+>- [我所理解的框架【Unity 游戏框架搭建】](https://www.cnblogs.com/liangxiegame/p/12557515.html)
 >- [如何做好窗口界面的交互设计？](https://mp.weixin.qq.com/s/atlBC-t_so4baiTR8WNu0A)
 >- [项目版本命名规范](https://www.cnblogs.com/7code/p/14206269.html)
 >- [如何设计渲染等级](https://answer.uwa4d.com/question/5acc208b425802635474fc7d)
