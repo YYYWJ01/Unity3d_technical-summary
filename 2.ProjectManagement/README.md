@@ -17,8 +17,13 @@
 
 经验分享
 ---
+>- [《天涯明月刀幕后》](https://zhuanlan.zhihu.com/p/36765725)
+>- [《剑侠情缘网络版开发回顾》](https://www.renrendoc.com/paper/206432755.html)
+>- [《荒野行动Plus幕后》](https://zhuanlan.zhihu.com/p/49271698)
+>- [《游戏工程管理》](https://edu.uwa4d.com/course-intro/0/439)
 >- [Unity制作人专场 | 代号—S手游制作经验](https://mp.weixin.qq.com/s?__biz=MzkyMTM5Mjg3NQ==&mid=2247536243&idx=1&sn=fe9d63e7e900c2813d27bee5dcdca2c1&source=41#wechat_redirect)
 >- [Unity制作人专场 | 闪耀暖暖从2D到3D的创作与进化之路](https://mp.weixin.qq.com/s?__biz=MzkyMTM5Mjg3NQ==&mid=2247536253&idx=1&sn=19261b5b39cacf26551f5d3ee58f0711&source=41#wechat_redirect)
 >- [互联网开发模式的经验之谈](https://www.cnblogs.com/qcloud1001/p/10251623.html)
 >- [一个角色最终呈现在引擎里，美术制作上的思考以及注意事项](https://mp.weixin.qq.com/s?__biz=MzkyMTM5Mjg3NQ==&mid=2247536696&idx=1&sn=79846058786e7ca40936f6e86348b1f1&source=41#wechat_redirect)
 >- [《鬼山之下》前 100 个小时的制作思路分享（一）打算如何做？为什么要做？](https://mp.weixin.qq.com/s?__biz=MzkyMTM5Mjg3NQ==&mid=2247536878&idx=1&sn=acf062fed4f598d54c4c9c7ed2d0885c&source=41#wechat_redirect)
+
