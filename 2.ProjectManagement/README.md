@@ -31,3 +31,10 @@
 项目打包
 ---
 >- [Unity3d移动平台打包发布流程详解](https://blog.csdn.net/weixin_41301576/article/details/127353458)
+
+
+物理引擎
+---
+>- [球、AABB和OBB包围盒碰撞检测](https://www.cnblogs.com/lyggqm/p/5386174.html)
+>- [2D | AABB碰撞检测](https://learnopengl-cn.github.io/06%20In%20Practice/2D-Game/05%20Collisions/02%20Collision%20detection/)
+>- [Unity3D-游戏中的技能碰撞检测](http://t.zoukankan.com/lijiajia-p-6718812.html)
