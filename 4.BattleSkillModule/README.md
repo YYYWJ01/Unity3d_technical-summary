@@ -15,7 +15,7 @@
 
 实现库
 >- [一个基于Entity-Component模式的灵活、通用的战斗（技能）框架](https://github.com/m969/EGamePlay)
->- [动作游戏开发套件(XMLib)]()
+>- [动作游戏开发套件(XMLib)](https://github.com/YYYWJ01/Unity3d_technical-summary/tree/main/4.BattleSkillModule/XMLib)
 
 成品Demo
 >- [用Unity做的一个类Moba游戏Demo](https://github.com/swordjoinmagic/MoBaDemo) 
