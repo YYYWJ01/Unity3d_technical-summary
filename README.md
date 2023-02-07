@@ -8,4 +8,4 @@
 >- [5.游戏加密与破解](https://github.com/YYYWJ01/Unity3d_technical-summary/tree/main/5.GameEncryption)
 >- [6.性能优化](https://github.com/YYYWJ01/Unity3d_technical-summary/tree/main/6.PerformanceOptimization)
 >- [7.渲染相关](https://github.com/YYYWJ01/Unity3d_technical-summary/tree/main/7.RenderModule)
->- [8.第三方库与插件]()
+>- [8.第三方库与插件](https://github.com/YYYWJ01/Unity3d_technical-summary/tree/main/8.3rdPlugins)
