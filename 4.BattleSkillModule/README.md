@@ -12,6 +12,10 @@
 >- [如何做横版动作游戏的战斗系统！](https://mp.weixin.qq.com/s/anhJsgm59kd3Y907n61ESQ)
 >- [技能编辑器的设计实现](https://zhuanlan.zhihu.com/p/158430393)
 >- [用Unity制作一个极具扩展性的顶视角射击游戏战斗系统](https://zhuanlan.zhihu.com/p/416805924)
+>- [MMORPG技能管线设计经验总结](https://cloud.tencent.com/developer/article/2079231)
+
+碰撞检测
+>- [图形引擎实战：RVO动态避障使用分享](https://zhuanlan.zhihu.com/p/627264791)
 
 实现库
 >- [一个基于Entity-Component模式的灵活、通用的战斗（技能）框架](https://github.com/m969/EGamePlay)

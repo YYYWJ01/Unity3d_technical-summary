@@ -66,6 +66,7 @@ CPU优化
 >- [Assets中的Shader，是否只要开始运行就会直接加进内存](https://answer.uwa4d.com/question/619cce5ed8413e18eb241eb5)
 >- [分享一次查找GfxDriver内存暴涨的经历](https://mp.weixin.qq.com/s/sCwBIHmr_SBtseD0u6tWHA)
 >- [Unity网格内存优化](https://mp.weixin.qq.com/s/kUmeLFksQyUwqFlCNPpQeg)
+>- [图形引擎实战：Unity Shader变体管理流程](https://mp.weixin.qq.com/s/1u67OWs-TNkMa_NCDK-iBg)
 
 UI优化
 >- [Unity GUI(uGUI)使用心得与性能总结](https://www.jianshu.com/p/061e67308e5f)
